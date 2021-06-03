@@ -17,49 +17,43 @@ export type linkGroup = {
 	links: dataElem[];
 }
 
-/*
-──────▄▌▐▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀​▀▀▀▀▀▀▌
-───▄▄██▌█ BEEP BEEP
-▄▄▄▌▐██▌█ GAY PORN DELIVERY
-███████▌█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄​▄▄▄▄▄▄▌
-▀(@)▀▀▀▀▀▀▀(@)(@)▀▀▀▀▀▀▀▀▀▀▀▀▀​▀▀▀▀(@)▀
-*/
+
 export const links: linkGroup[] = [
 	{
 		title: "Reddit",
 		links: [
 			{
-				label: "r/startpages",
-				value: "https://www.reddit.com/r/startpages/",
+				label: "r/battlestations",
+				value: "https://www.reddit.com/r/battlestations/",
 			},
 			{
-				label: "r/unixporn",
-				value: "https://www.reddit.com/r/unixporn/",
+				label: "r/widescreenwallpaper",
+				value: "https://www.reddit.com/r/widescreenwallpaper/",
 			},
 			{
 				label: "r/rainmeter",
 				value: "https://www.reddit.com/r/rainmeter/",
 			},
 			{
-				label: "r/AnimalsBeingDerps",
-				value: "https://www.reddit.com/r/AnimalsBeingDerps/",
+				label: "r/cigars",
+				value: "https://www.reddit.com/r/cigars/",
 			},
 		]
 	},
 	{
-		title: "3D Modelling",
+		title: "Cigarsg",
 		links: [
 			{
-				label: "Blender",
-				value: "https://www.blender.org/",
+				label: "Fox Cigar",
+				value: "https://foxcigar.com/",
 			},
 			{
-				label: "BlenderGuru",
-				value: "https://www.blenderguru.com/",
+				label: "JR Cigars",
+				value: "https://www.jrcigars.com/",
 			},
 			{
-				label: "Poliigon",
-				value: "https://www.poliigon.com/",
+				label: "The Cigar Authority",
+				value: "http://thecigarauthority.com/",
 			},
 			{
 				label: "Blender tutorial",
