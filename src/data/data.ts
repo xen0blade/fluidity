@@ -41,7 +41,7 @@ export const links: linkGroup[] = [
 		]
 	},
 	{
-		title: "Cigarsg",
+		title: "Cigars",
 		links: [
 			{
 				label: "Fox Cigar",
@@ -56,12 +56,12 @@ export const links: linkGroup[] = [
 				value: "http://thecigarauthority.com/",
 			},
 			{
-				label: "Blender tutorial",
-				value: "https://www.youtube.com/watch?v=NyJWoyVx_XI&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U",
+				label: "r/cigars",
+				value: "https://www.reddit.com/r/cigars/",
 			},
 			{
-				label: "The other Blender tutorial",
-				value: "https://www.youtube.com/watch?v=bpvh-9H8S1g&list=PL8eKBkZzqDiU-qcoaghCz04sMitC1yx6k&index=1",
+				label: "Cigarbid",
+				value: "https://www.cigarbid.com/",
 			},
 		]
 	},
